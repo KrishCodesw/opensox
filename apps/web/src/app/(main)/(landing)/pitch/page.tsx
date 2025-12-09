@@ -163,7 +163,9 @@ const Pitch = () => {
                   </li>
                 </ul>
                 <p className="text-text-secondary font-medium text-lg lg:text-xl pt-4 lowercase">
-                  <strong className="text-text-primary">the bottom line</strong>{" "}
+                  <strong className="text-brand-purple-light">
+                    the bottom line
+                  </strong>{" "}
                   - my goal is to just save your time. my goal is to make you
                   achieve things in 1 year that took me 3.
                 </p>
