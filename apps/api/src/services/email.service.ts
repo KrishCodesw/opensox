@@ -117,7 +117,7 @@ export const emailService = {
         </p>
         
         <div style="margin: 30px 0; text-align: center;">
-          <a href="https://cal.com/ajeetunc/secret" 
+          <a href="https://cal.com/ajeetunc/opensox" 
              style="background-color: #007bff; color: white; padding: 14px 32px; 
                     text-decoration: none; border-radius: 6px; display: inline-block; 
                     font-weight: 600; font-size: 16px;">
