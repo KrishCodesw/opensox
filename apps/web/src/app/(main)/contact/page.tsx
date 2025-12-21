@@ -10,10 +10,10 @@ import {
   LegalContent,
 } from "@/components/legal";
 
-// This page should be static and CDN-cacheable.
-// Helps a lot if your TTFB is high due to middleware/session work elsewhere.
+// this page should be static and cdn-cacheable.
+// helps a lot if your ttfb is high due to middleware/session work elsewhere.
 export const dynamic = "force-static";
-export const revalidate = 60000; 
+export const revalidate = 86400;
 
 export const metadata: Metadata = {
   title: "Contact Us - Opensox AI",
