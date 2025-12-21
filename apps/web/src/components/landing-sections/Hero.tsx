@@ -38,7 +38,7 @@ const Hero = () => {
     trackButtonClick("Get Started", "hero");
   };
   return (
-    <div className="w-full min-h-[50dvh] lg:h-[69dvh] relative overflow-hidden z-10 p-4 lg:p-[60px] flex flex-col items-center justify-center gap-6 ">
+    <div className="w-full min-h-[50dvh] lg:min-h-[69dvh] relative overflow-hidden z-10 p-4 lg:p-[60px] flex flex-col items-center justify-center gap-6 ">
       <Image
         src="/assets/bgmain.svg"
         alt="background"
@@ -88,8 +88,9 @@ const Hero = () => {
           }}
           className="w-full lg:text-2xl tracking-tight font-light sm:max-w-lg mx-auto lg:max-w-4xl lg:text-balance text-text-secondary"
         >
-          Find suitabe OSS repos in seconds. learn the basics,
-          get the mentorship for OSS opportunities, GSoC, etc, and start making progress from today itself.
+          Find suitabe OSS repos in seconds. learn the basics, get the
+          mentorship for OSS opportunities, GSoC, etc, and start making progress
+          from today itself.
         </motion.p>
       </motion.div>
       <motion.div
