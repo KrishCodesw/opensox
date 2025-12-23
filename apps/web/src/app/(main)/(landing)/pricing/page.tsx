@@ -88,7 +88,7 @@ const whySub = [
   },
   {
     content:
-      "After the launch, this $49 offer be removed and Opensox Pro will be around ~ $69 for whole year ($10/mo.)",
+      "After the launch, this $49 offer be removed and Opensox Pro will be around ~ $89 for whole year.",
   },
   {
     content: "The price of the dollar is constantly increasing.",
@@ -487,7 +487,7 @@ const SecondaryPricingCard = ({ callbackUrl }: { callbackUrl: string }) => {
                 <h2 className="text-6xl lg:text-[90px] lg:leading-[82px] tracking-tight font-semibold">
                   $49{" "}
                   <span className="text-3xl lg:text-4xl text-white-400 line-through decoration-2">
-                    $69
+                    $89
                   </span>{" "}
                   <span className="text-4xl">/ year</span>
                 </h2>
